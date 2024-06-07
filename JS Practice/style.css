@@ -1,0 +1,206 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+/* Project No 1 */
+
+/* #bulb{
+    width: 300px;
+    height: 280px;
+    border-radius: 50%;
+    border: 3px solid black;
+   
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+button{
+    height: 30px;
+    width: 90px;
+}
+.click{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+
+} */
+
+/* Project No 2 */
+
+/* body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: cornflowerblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+} */
+
+
+/* #card{
+    border-radius: 10px;
+    height: 450px;
+    width: 300px;
+    background-color: #fff;
+    margin-top: 60px;
+    text-align: center;
+
+
+} */
+/* #card img{
+    height: 40%;
+     
+    margin-top: 30px; 
+    object-fit: cover;
+    object-position: center;
+    border-radius: 10px;
+
+}
+#card h1{
+    font-size: 25px;
+    margin: 10px 0px;
+}
+#card h5{
+    font-size: 20px;
+    margin: 20px;
+    color: red;
+
+}
+#card button{
+    background-color: cadetblue;
+    color: #fff;
+    font-weight: 700;
+    padding: 12px 20px;
+    border-radius: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+#card #remove{
+    background-color: #dadada;
+    color: black;
+} */
+
+
+/* Project No 3 */
+
+/* body{
+    background-color: lightseagreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#container{
+    height: 400px;
+    width: 350px;
+    background: white;
+    margin-top: 60px;
+    border-radius: 10px;
+    position: relative;
+
+
+
+}
+#container img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+#container i{
+    color: #fff;
+    font-size: 70px;
+    position: absolute;
+    transform: translate(-50%,-50%) scale(0);
+    top: 50%;
+    left: 50%;
+    opacity: 0;
+    transition: transform ease 0.4s;
+
+
+} */
+
+
+/* Project No 4 */
+/*
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#main{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cursor{
+    height: 20px;
+    width: 20px;
+    background-color:red;
+    border-radius: 50%;
+    position: absolute;
+    transition: all linear 0.2s;
+
+}
+#main h1{
+    color: white;
+    font-size: 10vw;
+} */
+
+
+/* Project 5 */
+
+body {
+    background-color: rgb(62, 249, 249);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#card {
+    height: 480px;
+    width: 350px;
+    background-color: white;
+    margin-top: 70px;
+    border-radius: 10px;
+    border: 2px solid #000;
+
+}
+
+#storiyan {
+    height: 120px;
+    width: 100%;
+    border-bottom: 1px solid #dadada;
+    white-space: nowrap;
+    overflow-x: auto;
+    margin-top: 10px;
+    
+}
+#storiyan::-webkit-scrollbar{
+    display: none;
+}
+
+.story {
+    border: 2px solid red;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    margin-left: 3px;
+    overflow: hidden;
+    display: inline-block;
+
+}
+
+.story img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}

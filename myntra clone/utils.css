@@ -1,0 +1,22 @@
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.space-around{
+    justify-content: space-between;
+}
+.text{
+    text-transform: uppercase;
+}
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.bold{
+    font-weight: bolder;
+}

@@ -1,0 +1,9 @@
+user ka data matlab document 
+
+aur db ke under saree user  ka data usko collection
+
+
+
+clint has cookie 
+
+and server has sessions
